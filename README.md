@@ -1,0 +1,1 @@
+# Swift_Text_Recognizer
